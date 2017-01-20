@@ -1,0 +1,5 @@
+(define (problem rob)
+(:domain UNIT-TEST)
+(:objects arthur excalibur woods lake)
+(:init (connected lake woods) (fabulous arthur) (location woods) (player arthur) (at excalibur lake) (location lake) (connected woods lake) (alive arthur) (sword excalibur) (character arthur) (has arthur arthur))
+(:goal (AND (has arthur excalibur) (fabulous arthur))))

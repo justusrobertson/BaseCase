@@ -1,0 +1,774 @@
+fileFormatVersion: 2
+guid: 70c24bf220a2cba439bd92e5cf061f58
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ripley
+    21300002: ripley_0
+    21300004: ripley_1
+    21300006: ripley_2
+    21300008: ripley_3
+    21300010: ripley_4
+    21300012: ripley_5
+    21300014: ripley_6
+    21300016: ripley_7
+    21300018: ripley_8
+    21300020: ripley_9
+    21300022: ripley_10
+    21300024: ripley_11
+    21300026: ripley_12
+    21300028: ripley_13
+    21300030: ripley_14
+    21300032: ripley_15
+    21300034: ripley_16
+    21300036: ripley_17
+    21300038: ripley_18
+    21300040: ripley_19
+    21300042: ripley_20
+    21300044: ripley_21
+    21300046: ripley_22
+    21300048: ripley_23
+    21300050: ripley_24
+    21300052: ripley_25
+    21300054: ripley_26
+    21300056: ripley_27
+    21300058: ripley_28
+    21300060: ripley_29
+    21300062: ripley_30
+    21300064: ripley_31
+    21300066: ripley_32
+    21300068: ripley_33
+    21300070: ripley_34
+    21300072: ripley_35
+    21300074: ripley_36
+    21300076: ripley_37
+    21300078: ripley_38
+    21300080: ripley_39
+    21300082: ripley_40
+    21300084: ripley_41
+    21300086: ripley_42
+    21300088: ripley_43
+    21300090: ripley_44
+    21300092: ripley_45
+    21300094: ripley_46
+    21300096: ripley_47
+    21300098: ripley_48
+    21300100: ripley_49
+    21300102: ripley_50
+    21300104: ripley_51
+    21300106: ripley_52
+    21300108: ripley_53
+    21300110: ripley_54
+    21300112: ripley_55
+    21300114: ripley_56
+    21300116: ripley_57
+    21300118: ripley_58
+    21300120: ripley_59
+    21300122: ripley_60
+    21300124: ripley_61
+    21300126: ripley_62
+    21300128: ripley_63
+    21300130: ripley_64
+    21300132: ripley_65
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ripley_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 152
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 152
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 152
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 153
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 152
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 153
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 152
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 153
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 122
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 123
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 122
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 122
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 122
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 123
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_18
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 122
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 122
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_21
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 123
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 122
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_23
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 93
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 93
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 93
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 93
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 93
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 93
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_33
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 93
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_35
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 93
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 63
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_38
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 56
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_39
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 63
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_40
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 57
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 63
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_42
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 56
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_43
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 63
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 57
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_45
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 63
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 56
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_47
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 63
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 33
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_50
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 26
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_51
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 33
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 27
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 33
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_54
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 26
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_55
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 33
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 27
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_57
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 33
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_58
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 26
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_59
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 33
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_61
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_62
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_64
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ripley_65
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

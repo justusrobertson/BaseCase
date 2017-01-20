@@ -1,0 +1,98 @@
+Unity General Mediation Engine
+by Justus Robertson
+
+__/\\\________/\\\_____/\\\\\\\\\\\\__/\\\\____________/\\\\__/\\\\\\\\\\\\\\\_        
+ _\/\\\_______\/\\\___/\\\//////////__\/\\\\\\________/\\\\\\_\/\\\///////////__       
+  _\/\\\_______\/\\\__/\\\_____________\/\\\//\\\____/\\\//\\\_\/\\\_____________      
+   _\/\\\_______\/\\\_\/\\\____/\\\\\\\_\/\\\\///\\\/\\\/_\/\\\_\/\\\\\\\\\\\_____     
+    _\/\\\_______\/\\\_\/\\\___\/////\\\_\/\\\__\///\\\/___\/\\\_\/\\\///////______    
+     _\/\\\_______\/\\\_\/\\\_______\/\\\_\/\\\____\///_____\/\\\_\/\\\_____________   
+      _\//\\\______/\\\__\/\\\_______\/\\\_\/\\\_____________\/\\\_\/\\\_____________  
+       __\///\\\\\\\\\/___\//\\\\\\\\\\\\/__\/\\\_____________\/\\\_\/\\\\\\\\\\\\\\\_ 
+        ____\/////////______\////////////____\///______________\///__\///////////////__
+		
+This is the General Mediation Engine's Unity game engine project. 
+Work began on August 15th, 2014 by Justus Robertson.
+
+---------------
+
+0. REAMDE
+
+This demo, called Base Case, is built using the Unity General Mediation Engine. This project contains the UGME along with Base Case specific assets. Base Case was created with Unity version 4.5.3f3.
+
+---------------
+
+1. Important Warning
+
+Be sure to check for line endings in './plan.sh' and './FastDownward/src/search/downward' if Fast Downward doesn't work. Git likes to change unix-style LF line endings to Windows-style CRLF which clogs the shell script and the planner.
+
+One way to fix this is with Notepad++:
+
+1. Open a file.
+2. Click Search -> Find
+3. Select the Replace tab.
+4. In the Search Mode box click the Extended radio button.
+5. In the 'Find what:' box, type '\r\n'
+6. In the 'Replace with:' box, type '\n'
+
+---------------
+
+2. Introduction
+
+This system is a Unity project containing GME at its core. The system consists of several components:
+
+Component 1: Unity
+This project and most of its directories belong to the Unity game engine. An easy way to open the project is to open the Game.unity file in the ./Assets/Scenes/ folder.
+
+Component 2: GME
+Located at ./Assets/Plugins/Mediation.dll, this is the core of the Unity project.
+
+Component 3: Fast Downward
+Located at ./FastDownward, this is an image from the public Fast Downward repository found at: 
+hg.fast-downward.org
+
+I use !32-bit Cygwin! to compile and run Fast Downward on Windows.
+
+Component 4: plan.bat and plan.sh
+These are scripts used by the GME dll to call Fast Downward through its command line interface.
+
+Component 5: Benchmarks
+This is a folder of example domain and problem files for the system to use. The Arthur domain, ./Benchmarks/arthur, is the domain and problem currently used in the Unity game.
+
+---------------
+
+3. Fast Downward Installation Instructions
+
+This section details how to install and run Fast Downward. Use these instructions if the installed copy of Fast Downward doesn't work on your machine and you have already changed the line endings detailed in Section 1.
+
+Step 1: Install 32-bit Cygwin installer. Make sure it's the 32-bit installer, no matter what version of Windows you have!
+www.cygwin.com/install.html
+www.cygwin.com/setup-x86.exe
+
+Step 2: When running the installer, search for and install each of these packages:
+mercurial
+g++
+make
+python
+flex
+bison
+gawk
+gcc
+
+Step 3: Once installed, open Cygwin and navigate to Fast Downward's source directory. Type:
+cd /cygdrive/c/... path to the UGME project .../fastdownward/src
+
+Step 4: Compile FastDownward by typing:
+./build_all
+
+Step 5: Open ./Assets/Scenes/Game.unity and press the play button. You should see a log message in the Console that reads 'Planner is working.' This message is printed if the initial plan returned by Fast Downward to the game has one or more steps.
+
+---------------
+
+4. Contact
+
+Feel free to contact Justus Robertson at:
+
+jjrobert at ncsu.edu
+
+with any questions.

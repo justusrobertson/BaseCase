@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 9600702f868052347b427226593d65bd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: prisoner_sheet
+    21300002: prisoner_sheet_0
+    21300004: prisoner_sheet_1
+    21300006: prisoner_sheet_2
+    21300008: prisoner_sheet_3
+    21300010: prisoner_sheet_4
+    21300012: prisoner_sheet_5
+    21300014: prisoner_sheet_6
+    21300016: prisoner_sheet_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: prisoner_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 81
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prisoner_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 81
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prisoner_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 81
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prisoner_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 82
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prisoner_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 51
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prisoner_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 52
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prisoner_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 51
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prisoner_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 51
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
